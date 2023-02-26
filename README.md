@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am ✨ Vincent Pang ✨ a Y2 Computer Science student @ NUS SOC
 
